@@ -1,45 +1,49 @@
-Calculator Program
+# 🧮 Calculator Program (C Language)
 
-Description
-
+## 📖 Description
 This project is a menu-driven Calculator Program developed in C as part of the CodeAlpha Internship.
 
-The calculator performs basic arithmetic operations using switch-case statements and functions. It provides a user-friendly interface and allows multiple calculations during a single execution.
+It performs basic arithmetic operations using switch-case statements and functions. The program is user-friendly and allows multiple calculations in a single run.
 
-Features
+---
 
+## ✨ Features
 - Addition
 - Subtraction
 - Multiplication
 - Division
 - Division by Zero Handling
-- Menu-Driven Interface
+- Menu-driven Interface
 - Repeated Calculations
-- Function-Based Implementation
+- Function-based Implementation
 
-Technologies Used
+---
 
+## 🛠️ Technologies Used
 - C Programming Language
 - VS Code
-- Clang/GCC Compiler
+- GCC / Clang Compiler
 
-Learning Outcomes
+---
 
-- Functions in C
-- Switch Case Statements
-- Conditional Statements
-- User Input Handling
-- Program Modularization
-
-How to Run
-
+## ▶️ How to Run
 Compile:
 clang calculator.c -o calculator
 
 Run:
 ./calculator
 
-Author
+---
 
-Neha Mehndiratta
+## 🎯 Learning Outcomes
+- Functions in C
+- Switch Case Statements
+- Conditional Statements
+- User Input Handling
+- Modular Programming
+
+---
+
+## 👤 Author
+Neha Mehndiratta 
 CodeAlpha Internship
