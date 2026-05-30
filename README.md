@@ -42,4 +42,4 @@ A file-based system that manages student records using structures and file handl
 
 ## 👤 Author
 Neha Mehndiratta
-CodeAlpha Internship
+
