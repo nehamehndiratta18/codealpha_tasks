@@ -46,4 +46,3 @@ Run:
 
 ## 👤 Author
 Neha Mehndiratta 
-CodeAlpha Internship
